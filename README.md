@@ -16,10 +16,9 @@ Uma calculadora para o Índice de Massa Corporal (IMC) que determina a classific
 ## Como Executar
 ```bash
 git clone https://github.com/seu-usuario/calculadora-imc
-cd calculadora-imc
 npm install
 npm start
 ```
 
 ## Imagem
-![IMC Screenshot](https://github.com/GuilhermeCanina/CalculadoraIMC-React/blob/466f829777a7bd4c5a194abaffb8f489e18ce241/assets/images/Captura%20de%20tela%202025-07-28%20082716.png)
+![IMC Screenshot](https://github.com/Gabihdemori/React-CalculateIMC/blob/1334cc7cd8872d64b41e68ddf2d8a2f19b3e6b4a/assets/images/CalculateIMC.png)
